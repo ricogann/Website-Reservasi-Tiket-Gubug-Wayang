@@ -1,0 +1,51 @@
+form{
+    background: #fff;
+    margin: 100px auto;
+    width: 70%;
+    padding: 15px 40px 40px 40px;
+}
+
+.tab p{
+    font-size: 20px;
+    margin: 0 0 10px 0;
+}
+
+input{
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    font-size: 17px;
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+}
+
+.index-btn-wrapper{
+    display: flex;
+}
+
+.index-btn{
+    margin: 20px 15px 0 0;
+    background: #04AA6D;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.index-btn:hover{
+    opacity: 0.8;
+}
+
+.step{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background: green;
+    color: white;
+    border-radius: 50%;
+    line-height: 30px;
+    margin: 0 2px;
+    opacity: 0.25;
+}

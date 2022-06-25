@@ -1,0 +1,36 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #F2E0C8;
+}
+.gambar img{
+    width:55%;
+    height: 600px;
+    margin-left: 22.5%;
+    border-radius: 2%;
+}
+.text{
+    position: absolute;
+    font-size: large;
+    width: 48%;
+    top: 50%;
+    left: 26%;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 3%;
+}
+.text .text1{
+    background-color: #F4CA93 ;
+    font-size: xx-large;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius:10%;
+}
+.text .text2{
+    background-color: #907C60 ;
+    font-size: xx-large;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius:10%;
+}

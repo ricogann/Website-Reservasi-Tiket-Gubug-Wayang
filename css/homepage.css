@@ -1,0 +1,71 @@
+
+@font-face {
+    src: url(Fonts/Poppins\ \(1\).zip);
+    font-family: Poppins;
+    src: url(Fonts/arab.rar);
+    font-family: arab;
+}
+
+* {
+    margin: 0;
+    font-family: Poppins;
+}
+body {
+    background-color: #F4CA93;
+}
+.dropdown img{
+    width: 30px;
+}
+.container-fluid .navbar-brand button {
+    font-size:large;
+}
+.nav-item a{
+    position: absolute;
+    right: 13%;
+    bottom: 2%;
+    font-size: larger;
+}
+
+.text-center img{
+    width: 70px;
+    position:absolute;
+    right: 25%;
+    bottom: 8%;
+}
+.uppercontent img{
+    margin-top: 2%;
+}
+.text-center{
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 9%;
+    margin-right: 9%;
+    
+}
+.text-xl-start{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.text-centers{
+    text-align: center;
+    border-radius: 10%;
+    
+}
+.text-centers img{
+    width:80%;
+    margin-top: 3%;
+}
+.judul1{
+    background-color: #F4CA93;
+    border-radius: 5%;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+    position: relative;
+    bottom: 40px;
+}
+
+.judul1 button{
+    background-color: #FAE9D3;
+    color: #F98E00;
+}

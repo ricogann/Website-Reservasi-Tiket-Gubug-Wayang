@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+
+.navbar-nav > li{
+    padding-left:50px;
+    padding-right:50px;
+  }
+.navbar{
+    background: #907C60 ;
+    color: #ffffff;
+}
+.navbar-nav > .active > a {
+    color: red;
+}
+.navbar .navbar-brand {
+    color: #ffffff;
+    font-family: 'Syne';
+}
+.navbar .nav-item .nav-link{
+    color: #ffffff;
+}
+body{
+    background-color: #F2E0C8;
+}
+.container{
+    margin-top: 3%;
+    
+}
+.container .col .s{
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: silver;
+}
+.test{
+    text-align: center;
+    margin-top: 0;
+}
+.s{
+    text-align: center;
+}
+.rows{
+    margin-top: 0;
+}
